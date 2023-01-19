@@ -1,0 +1,38 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+.name{
+    padding: 70px 650px 25px;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(153, 127, 255);
+}
+.form{
+    margin: 0px 550px 0px;
+}
+.submit{
+    width: 80px;
+    height: 30px;
+    color: white;
+    background-color: rgb(0, 255, 234);
+    border: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.submit:hover{
+    background-color: white;
+    border: 1px solid rgb(0, 255, 234);
+    color: rgb(0, 255, 234);
+    cursor: pointer;
+}
+.form__control{
+    color: rgb(0, 0, 0);
+}
+.result{
+    padding: 0px 660px;
+    color: rgb(0, 255, 234);
+}
